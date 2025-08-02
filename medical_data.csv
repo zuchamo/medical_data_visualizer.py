@@ -1,0 +1,11 @@
+age,bmi,cholesterol,disease_status
+25,22.4,180,healthy
+40,27.8,220,diseased
+33,30.2,195,diseased
+52,24.1,170,healthy
+45,29.5,210,diseased
+60,31.6,245,diseased
+29,23.7,185,healthy
+36,26.8,200,healthy
+48,28.9,230,diseased
+55,32.1,260,diseased
